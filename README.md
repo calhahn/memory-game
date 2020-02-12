@@ -1,6 +1,6 @@
 # Memory Game
 
-## Table of Contents
+Contents:
 
 * [About](#about)
 * [Rules](#rules)
@@ -22,12 +22,12 @@ number of moves.
 ## Playing
 
 Open `index.html` in your browser to play the game. Keep in mind that it was
-only tested to work in Google Chrome.
+only tested to work in Google Chrome. Alternatively, you can play
+[here](https://calhahn.github.io/memory-game/).
 
 ## Dependencies
 
 The game loads external online resources for card icons and fonts:
 
 * Icons from [Font Awesome](https://fontawesome.com)
-* Fira Sans and Fira Mono typefaces from
-  [Google Fonts](https://fonts.google.com)
+* Fira Sans and Fira Mono typefaces from [Google Fonts](https://fonts.google.com)
